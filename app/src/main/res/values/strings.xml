@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android界面组件实验</string>
+    <string name="title_listview">ListView用法</string>
+    <string name="title_alertdialog">自定义对话框</string>
+    <string name="title_menu">MenuTest</string>
+    <string name="title_actionmode">上下文操作模式</string>
+    <string name="title_recyclerview">RecyclerView列表</string>
+</resources>
